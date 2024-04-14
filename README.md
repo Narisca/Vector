@@ -12,7 +12,7 @@ pip3 install -r requirements.txt
 
 bu komutları kullanarak programı indirip kurduktan sonra `python3 vector.py --help` komutunu kullanarak programı nasıl çalıştırabileceğinizi öğrenebilirsiniz.
 
-![1](https://github.com/Narisca/Vector/assets/165813191/419ef918-5f38-4f21-a5e6-0315672820fb)
+![1](https://github.com/Narisca/Vector/assets/165813191/a7036286-d558-4e76-bef5-833fe0c283ae)
 
 ## Örnek kullanım
 
