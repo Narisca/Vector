@@ -1,5 +1,5 @@
 # Vector
-Programı yaparken ki amacım sitelerde paylaşılan resim dosyaları üzerinden kullanıcı adlarını toplamaktı. Bu sayede belirli protokollere veyahut giriş formlarına kör deneme yanılma saldırısı yapmaktansa en azından elde ettiğim kullanıcı adları ile daha iyi bir saldırı gerçekleştirebilecektim. Bunun yanı sıra sadece kullanıcı adlarını toplamak yerine diğer bilgileri de toplamanın bana daha fazla bilgi sağlayacanı düşündüm ve bu yüzden kullanıcı adlarının dışında bulabildiği tüm exif verilerini kayıt etmesini istedim.
+Programı yaparken ki amacım sitelerde paylaşılan resim dosyaları üzerinden kullanıcı isimlerini toplamaktı. Bu sayede belirli protokollere veyahut giriş formlarına kör deneme yanılma saldırısı yapmaktansa en azından elde ettiğim kullanıcı isimleri ile daha iyi bir saldırı gerçekleştirebilecektim. Bunun yanı sıra sadece kullanıcı isimlerini toplamak yerine diğer bilgileri de toplamanın bana daha fazla bilgi sağlayacanı düşündüm ve bu yüzden kullanıcı adlarının dışında bulabildiği tüm exif verilerini kayıt etmesini istedim.
 
 ## Programın indirilmesi ve kurulması
 ```markdown
