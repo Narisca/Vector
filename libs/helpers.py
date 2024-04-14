@@ -19,7 +19,7 @@ def success(message):
 def ArgumentParser():
     parser = argparse.ArgumentParser(prog='Vector', description='Web sitelerinde ki resimlerin exif verilerini toplayan bir programdır.', epilog='...')
     parser.add_argument("--url",      "-u", help="hedef sitenin url adresini belirtmenizi sağlar.", required=True, type=str)
-    parser.add_argument("--crawl",    "-c", help="Taranacak alt sayfa sayısını belirtmenizi sağlar. (varsayılan: 3)", nargs="?", const=3, default=1, type=int)
+    parser.add_argument("--crawl",    "-c", help="Taranacak alt sayfa sayısını belirtmenizi sağlar. (varsayılan: 2)", nargs="?", const=2, default=1, type=int)
     parser.add_argument("--keywords", "-k", help="Filtrelenecek exif etiketlerini belirtmenizi sağlar. (varsayılan: all)", default="all", type=str)
     return parser.parse_args()
 
