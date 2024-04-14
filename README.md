@@ -17,3 +17,9 @@ bu komutları kullanarak programı indirip kurduktan sonra `python3 vector.py --
 ```
 python3 vector --url https://hedef.com/ --crawl 2 --keywords "author,owner name,artist"
 ```
+
+```markdown
+--url, -u     : Bu parametre hedef siteyi belirtmenizi sağlar.
+--crawl, -c   : Bu parametre inilecek en derin alanı belirtmenizi sağlar. Örneğin 1 derinliği ana sayfayı kapsarken, 2 derinliği ana sayfada ki linklerin içeriğini de kapsar.
+--keywords -k : Bu parametre toplanmasını istediğiniz exif verilerini belirtmenizi sağlıyor. Örneğin: software,author,model,copyright.. 
+```
