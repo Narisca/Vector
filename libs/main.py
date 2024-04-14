@@ -6,7 +6,7 @@ def start():
     print_logo()
     args = ArgumentParser()
     
-    info("Hedef sitede üzerinden linker toplanıyor...")
+    info("Hedef sitede üzerinden linkler toplanıyor...")
     images = crawlerMain(args.url, args.crawl)
 
     info("Exif verileri toplanıyor...")
