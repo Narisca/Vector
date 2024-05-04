@@ -5,7 +5,7 @@ Bahsettiğim olaya ilişkin bir olayı [buradan](https://www.youtube.com/watch?v
 
 ## Programın indirilmesi ve kurulması
 ```markdown
-git clone https://github.com/Narisca/Vector/
+git clone https://github.com/harveyspc/Vector/
 cd Vector
 pip3 install -r requirements.txt
 ```
