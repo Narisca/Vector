@@ -29,6 +29,6 @@ def print_logo():
   \  /  |______ |          |    |     | |_____/
    \/   |______ |_____     |    |_____| |    \_
 
-     .: {Colors.white}Coded By Narisca / Github: @Narisca {Colors.red}:.{Colors.white}
+     .: {Colors.white}Coded By Ronark / Github: @Ronark7 {Colors.red}:.{Colors.white}
                                                                             
     """)
